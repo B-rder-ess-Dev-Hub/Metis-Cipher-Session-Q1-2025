@@ -148,7 +148,7 @@ It is a solution on Ethereum that uses optimistic rollups to process transaction
 - ***Off-chain processing:*** These transactions are then processed off-chain via a sequencer
 - ***Roll-up creation:*** The sequencer creates a rollup which is a compressed version of the transaction data
 - ***On-chain submission:*** The rollup is submitted to the Ethereum main chain
-- ***Validation:*** The rollup is verified by the Ethereum network ensuring its validity
+- ***Validation:*** The rollup is verified by the Ethereum network ensuring its validity.
 
 ## Metis as a Layer 2 Solution
 It uses a novel architecture to process transactions off-chain. It does this by:
