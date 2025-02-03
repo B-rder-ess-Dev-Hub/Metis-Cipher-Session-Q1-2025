@@ -1,4 +1,4 @@
-# Week i Tasks
+# Week 1 Tasks
 
 Submission for the Metis Cipher Session Q1 2025 Week 1 tasks
 
@@ -156,10 +156,8 @@ Decentralized networks help in reducing the level of trust participants must pla
 
 |           | **Bitcoin**                       | **Ethereum**                      |
 |-----------------------|-----------------------------------|------------------------------------|
-| **Purpose**            | Bitcoin is primarily a digital currency, designed for peer-to-peer transactions and a store of value. | Ethereum is a decentralized platform for building and deploying smart contracts and decentralized applications (dApps). |
-
-
-| **Functionality**       | Bitcoin's primary function is to facilitate fast, secure, and low-cost transactions between parties, using its native cryptocurrency, BTC. | Ethereum's primary function is to enable the creation and execution of complex smart contracts, which can automate various tasks, from simple transactions to complex business logic.
+| **Purpose**           | Bitcoin is primarily a digital currency, designed for peer-to-peer transactions and a store of value. | Ethereum is a decentralized platform for building and deploying smart contracts and decentralized applications (dApps). |
+| **Functionality**     | Bitcoin's primary function is to facilitate fast, secure, and low-cost transactions between parties, using its native cryptocurrency, BTC. | Ethereum's primary function is to enable the creation and execution of complex smart contracts, which can automate various tasks, from simple transactions to complex business logic.|
 
 
 ## Key differences
