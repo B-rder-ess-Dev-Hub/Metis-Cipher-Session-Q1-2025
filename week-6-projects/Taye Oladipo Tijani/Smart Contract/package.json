@@ -1,0 +1,16 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "type": "module",  
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/merkle-tree": "^1.0.8",
+    "chai": "^4.3.7",
+    "dotenv": "^16.4.7",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.5.1"
+  }
+}
